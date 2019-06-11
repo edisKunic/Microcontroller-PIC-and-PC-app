@@ -1,0 +1,50 @@
+c:\users\a1\documents\visual studio 2013\Projects\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.pdb
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csprojResolveAssemblyReference.cache
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Form1.resources
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Properties.Resources.resources
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csproj.GenerateResource.Cache
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.pdb
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.exe
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.pdb
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\bin\Debug\diplomski_app.pdb
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csprojResolveAssemblyReference.cache
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Form1.resources
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Properties.Resources.resources
+C:\Users\a1\Desktop\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csproj.GenerateResource.Cache
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.pdb
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\bin\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\bin\Debug\diplomski_app.pdb
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csprojResolveAssemblyReference.cache
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Form1.resources
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.Properties.Resources.resources
+C:\Users\edo\Desktop\zavrsni\diplomski_app\diplomski_app\obj\Debug\diplomski_app.csproj.GenerateResource.Cache
+C:\Users\edo\Desktop\visual studio code\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.pdb
+C:\Users\edo\Desktop\visual studio code\diplomski_app\bin\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\visual studio code\diplomski_app\bin\Debug\diplomski_app.pdb
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.csprojResolveAssemblyReference.cache
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.Form1.resources
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.Properties.Resources.resources
+C:\Users\edo\Desktop\visual studio code\diplomski_app\obj\Debug\diplomski_app.csproj.GenerateResource.Cache
+C:\Users\edo\Desktop\Završni\visual studio code\diplomski_app\bin\Debug\diplomski_app.exe.config
+C:\Users\edo\Desktop\Završni\visual studio code\diplomski_app\obj\Debug\diplomski_app.exe
+C:\Users\edo\Desktop\Završni\visual studio code\diplomski_app\obj\Debug\diplomski_app.pdb
+E:\Završni aplikacija\visual studio code\diplomski_app\bin\Debug\diplomski_app.exe.config
+E:\Završni aplikacija\visual studio code\diplomski_app\bin\Debug\diplomski_app.exe
+E:\Završni aplikacija\visual studio code\diplomski_app\bin\Debug\diplomski_app.pdb
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.csprojAssemblyReference.cache
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.Form1.resources
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.Properties.Resources.resources
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.csproj.GenerateResource.cache
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.csproj.CoreCompileInputs.cache
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.exe
+E:\Završni aplikacija\visual studio code\diplomski_app\obj\Debug\diplomski_app.pdb
